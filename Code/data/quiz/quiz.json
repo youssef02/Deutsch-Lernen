@@ -1,0 +1,58 @@
+{
+    "quiz": [
+        {
+            "category": "Vokabeln",
+            "question": "Was bedeutet 'Buch' auf Englisch?",
+            "options": ["Book", "Table", "Chair", "Cup"],
+            "correct_option": 0
+        },
+        {
+            "category": "Grammatik",
+            "question": "Welcher Satz ist korrekt?",
+            "options": [
+                "Ich haben einen Hund.",
+                "Du haben eine Katze.",
+                "Er hat einen Vogel.",
+                "Wir haben ein Auto."
+            ],
+            "correct_option": 2
+        },
+        {
+            "category": "Lesen",
+            "paragraph": "Anna geht in die Bibliothek. Sie liest gerne Bücher über Geschichte und Kunst. Heute wählt sie ein Buch über das alte Ägypten aus.",
+            "questions": [
+                {
+                    "question": "Was macht Anna gerne?",
+                    "options": ["Schwimmen", "Lesen", "Kochen", "Tanzen"],
+                    "correct_option": 1
+                },
+                {
+                    "question": "Welches Buch wählt Anna heute aus?",
+                    "options": ["Kochbuch", "Geschichtsbuch", "Roman", "Wörterbuch"],
+                    "correct_option": 1
+                },
+                {
+                    "question": "Über welche Themen liest Anna gerne?",
+                    "options": ["Sport", "Geschichte und Kunst", "Science-Fiction", "Krimis"],
+                    "correct_option": 1
+                }
+            ]
+        },
+        {
+            "category": "Vokabeln",
+            "question": "Was ist die Übersetzung von 'Fenster' ins Englische?",
+            "options": ["Door", "Window", "Table", "Chair"],
+            "correct_option": 1
+        },
+        {
+            "category": "Grammatik",
+            "question": "Wie bildet man den Plural von 'Haus'?",
+            "options": ["Hausen", "Häusen", "Häuser", "Hausies"],
+            "correct_option": 2
+        }
+    ],
+    "quiz_info": {
+        "count": 8,
+        "level": 1
+    }
+}

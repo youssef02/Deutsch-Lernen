@@ -1,0 +1,29 @@
+{
+    "flashcards": [
+        {
+            "word": "Hallo",
+            "translation": "Hello"
+        },
+        {
+            "word": "Danke",
+            "translation": "Thank you"
+        },
+        {
+            "word": "Bitte",
+            "translation": "Please"
+        },
+        {
+            "word": "Guten Morgen",
+            "translation": "Good morning"
+        },
+        {
+            "word": "Auf Wiedersehen",
+            "translation": "Goodbye"
+        }
+    ],
+    "flashcard_info":{
+        "count": 5,
+        "level": 1
+    }
+    
+}
